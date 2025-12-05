@@ -6,16 +6,6 @@ Passionate about building machine learning models **from scratch** using NumPy a
 
 ---
 
-## 🌱 What I'm Learning
-
-- Generative AI & LLMs 
-- Google Machine Learning Crash Course (MLCC)
-- Deep Learning & Neural Networks
-- Feature scaling, normalization, and model evaluation metrics
-- API development (Flask/FastAPI) and Streamlit deployments
-
----
-
 ## 💻 Tech Stack
 
 ### Programming Languages

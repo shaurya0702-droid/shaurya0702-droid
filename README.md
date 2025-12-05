@@ -37,16 +37,6 @@ Passionate about building machine learning models **from scratch** using NumPy a
 | **LinkedIn** | [linkedin.com/in/shauryarawat]([https://linkedin.com](https://www.linkedin.com/in/shaurya-rawat-714349366/) |
 | **Email** | [shaurya@example.com](mailto:sharawat728@gmail.com) |
 
----
-
-## 📊 GitHub Stats
-
-```
-My focus: Quality over quantity 🎯
-- Pushing algorithms & ML implementations
-- Building end-to-end projects
-- Contributing to open-source
-```
 
 ---
 

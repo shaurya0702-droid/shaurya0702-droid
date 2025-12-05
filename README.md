@@ -39,58 +39,12 @@ Passionate about building machine learning models **from scratch** using NumPy a
 
 ---
 
-### 🤖 **ML Algorithms**
-Pure NumPy implementations of fundamental algorithms:
-- **k-Nearest Neighbors (k-NN)**: Distance metrics, decision boundaries
-- **Decision Trees & Random Forest**: Node splitting, ensemble methods, feature importance
-- **Support Vector Machines (SVM)**: Kernel methods, optimization
-- **Linear Regression & Gradient Descent**: Mathematical foundations
-- **Feature Scaling & Normalization**: Standardization and min-max scaling
-
----
-
-### 🧠 **Small ML Projects**
-- Linear Algebra Library: Matrix operations from scratch
-- Vector Visualization: Data visualization using ML concepts
-- Stone-Paper-Scissors Game: Game logic with AI opponent
-- Amazon Clone: E-commerce web interface (HTML/CSS/JavaScript)
-
----
-
-## 🎯 Learning Interests & Goals
-
-- [ ] Deep Learning & Neural Networks (by Feb 2026)
-- [ ] Advanced NLP & Transformer models
-- [ ] Model deployment & production optimization
-- [ ] Google Summer of Code (GSoC) contributions
-- [ ] End-to-end ML pipeline architecture
-- [ ] Dropout prediction deployment as SaaS product
-
----
-
-## 📖 My Learning Resources
-
-- **Google ML Crash Course (MLCC)**
-- **Krishna Naik Tutorials** (ML & Deep Learning)
-- **Official Documentation** (NumPy, Pandas, Scikit-learn, TensorFlow)
-- **Hands-on Kaggle Projects** (Gender classification, risk assessment)
-
----
-
-## 🏆 Community Involvement
-
-- **ACTS-EDC**: Core tech team member
-- **Open-Source Contributions**: Aim to Contribute to small organizations' repositories
-- **Hackathons**: Active participant in competitive programming and project building
-
----
-
 ## 🔗 Connect With Me
 
 | Profile | Link |
 |---------|------|
-| **GitHub** | [github.com/ShauryaRawat]([https://github.com](https://github.com/shaurya0702-droid)) |
-| **LinkedIn** | [linkedin.com/in/shauryarawat]([https://linkedin.com](https://www.linkedin.com/in/shaurya-rawat-714349366/)) |
+| **GitHub** | [github.com/ShauryaRawat]([https://github.com](https://github.com/shaurya0702-droid) |
+| **LinkedIn** | [linkedin.com/in/shauryarawat]([https://linkedin.com](https://www.linkedin.com/in/shaurya-rawat-714349366/) |
 | **Email** | [shaurya@example.com](mailto:sharawat728@gmail.com) |
 
 ---

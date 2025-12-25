@@ -8,13 +8,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Learning%20ML%20From%20Scratch;Building%20End-to-End%20AI%20Projects;Solving%20Real-World%20Problems%20with%20AI;Always%20Learning%20%7C%20Always%20Building&center=true&width=500&height=50">
-</div>
-
-<br/>
-
-<div align="center">
-  <img align="center" height="260" width="420" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" />
+  <img src="https://readme-typing-svg.vercel.app/?lines=Learning%20ML%20From%20Scratch;Building%20End-to-End%20AI%20Projects;Solving%20Real-World%20Problems%20with%20AI;Always%20Learning%20%7C%20Always%20Building&center=true&width=520&height=50">
 </div>
 
 ---
@@ -22,11 +16,11 @@
 ## 🌟 About Me
 
 - 🎓 **B.Tech AI-ML (1st Year)**  
-- 🤖 Passionate about **Machine Learning & AI Systems**
-- 🧠 Strong foundation in **ML algorithms, math & logic**
-- 🧪 Hands-on with **ML from scratch + real-world projects**
-- 🚀 Exploring **end-to-end ML pipelines**
-- 🎵 Fun fact: I can play **piano & flute**
+- 🤖 Strong interest in **Machine Learning & AI**
+- 🧠 Solid foundation in **ML algorithms & mathematics**
+- 🧪 Hands-on experience with **ML from scratch**
+- 🚀 Building **end-to-end ML projects**
+- 🎵 Fun fact: I play **piano & flute**
 
 ---
 
@@ -70,26 +64,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-0078D6?style=plastic&logo=windows&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaurya0702-droid&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya0702-droid&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
 ## 💡 Quick Facts
 
-- 🧠 **Learning Style:** Hands-on + conceptual clarity  
-- 🔍 **Focus:** ML algorithms, pipelines & real-world applications  
-- 📈 **Goal:** Build impactful AI systems  
-- 🤝 Open to collaborations & open-source  
+- 🧠 Learning style: **Hands-on + Conceptual**
+- 🔍 Focus: **ML pipelines & real-world problems**
+- 📈 Goal: **Build production-grade AI systems**
+- 🤝 Open to collaboration
 
 ---
 

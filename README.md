@@ -36,6 +36,9 @@
   <a href="mailto:sharawat728@gmail.com" target="_blank">
     <img src="https://img.icons8.com/doodle/40/gmail-new.png"/>
   </a>
+  <a href="https://www.instagram.com/sh.aura07/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/instagram-new--v2.png"/>
+  </a>
 </div>
 
 ---

@@ -45,27 +45,43 @@
 
 ## 💻 TECH STACK
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
-
-### 🧠 Programming Languages
+### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🤖 Machine Learning & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=plastic)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+
+
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0B?style=plastic&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-0078D6?style=plastic&logo=windows&logoColor=white)
+
+
+### 📊 Deployment & DevOps
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
 
 ---

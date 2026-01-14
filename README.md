@@ -45,11 +45,6 @@
 
 ## 💻 TECH STACK
 
-### 🐍 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-
 
 ### 🤖 Machine Learning & AI
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
@@ -80,7 +75,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
 
 
-### 🗄️ Databases
+### 🗄️ Backend & Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
 

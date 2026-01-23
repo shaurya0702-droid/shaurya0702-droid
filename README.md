@@ -13,21 +13,6 @@
 
 ---
 
-## 🌟 About Me
-
-- 🎓 **B.Tech AI-ML (1st Year)**
-- 🤖 Strong interest in **Machine Learning & AI**
-- 🧠 Solid foundation in **ML algorithms & mathematics**
-- 🧪 **Hands-on, concept-first learning style** with ML from scratch
-- 🚀 Building **unique, end-to-end ML projects** focused on real-world problems
-- 🔍 Primary focus on **ML pipelines and production-ready systems**
-- 📈 Long-term goal: **Build scalable, production-grade AI systems**
-- 🤝 Open to **collaboration and learning opportunities**
-- 🎵 Fun fact: I play **piano & flute**
-
-
----
-
 ## 💻 TECH STACK
 
 ### 🤖 Machine Learning, DL & AI
@@ -86,6 +71,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya0702-droid&layout=compact&theme=dark&hide_border=true" height="170"/>
 
 </div>
+
 ---
 
 ## 🌐 Connect With Me

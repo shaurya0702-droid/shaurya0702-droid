@@ -75,18 +75,17 @@
 
 ## 📊 GitHub Stats
 
-> A snapshot of my GitHub activity and consistency across personal and academic projects.
+> A snapshot of my GitHub activity, consistency, and hands-on development across personal and academic projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaurya0702-droid&show_icons=true&theme=dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shaurya0702-droid&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=shaurya0702-droid&theme=dark&hide_border=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya0702-droid&layout=compact&theme=dark&hide_border=true" height="170"/>
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me

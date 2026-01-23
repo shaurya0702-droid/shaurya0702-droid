@@ -15,15 +15,19 @@
 
 ## 🌟 About Me
 
-- 🎓 **B.Tech AI-ML (1st Year)**  
+- 🎓 **B.Tech AI-ML (1st Year)**
 - 🤖 Strong interest in **Machine Learning & AI**
 - 🧠 Solid foundation in **ML algorithms & mathematics**
-- 🧪 Hands-on experience with **ML from scratch**
-- 🚀 Building **end-to-end ML projects**
+- 🧪 **Hands-on, concept-first learning style** with ML from scratch
+- 🚀 Building **unique, end-to-end ML projects** focused on real-world problems
+- 🔍 Primary focus on **ML pipelines and production-ready systems**
+- 📈 Long-term goal: **Build scalable, production-grade AI systems**
+- 🤝 Open to **collaboration and learning opportunities**
 - 🎵 Fun fact: I play **piano & flute**
 
 
 ---
+
 ## 💻 TECH STACK
 
 ### 🤖 Machine Learning, DL & AI
@@ -67,6 +71,21 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-0078D6?style=plastic&logo=windows&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+> A snapshot of my GitHub activity and consistency across personal and academic projects.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shaurya0702-droid&show_icons=true&theme=dark&hide_border=true" height="170"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=shaurya0702-droid&theme=dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya0702-droid&layout=compact&theme=dark&hide_border=true" height="170"/>
+
+</div>
 
 ---
 
@@ -87,14 +106,6 @@
   </a>
 </div>
 
----
-
-## 💡 Quick Facts
-
-- 🧠 Learning style: **Hands-on + Conceptual**
-- 🔍 Focus: **ML pipelines & real-world problems**
-- 📈 Goal: **Build production-grade AI systems**
-- 🤝 Open to collaboration
 
 ---
 
@@ -102,6 +113,3 @@
 
 > **“The best way to learn is to build, break, and rebuild.”**
 
----
-
-_Last Updated: December 2025_

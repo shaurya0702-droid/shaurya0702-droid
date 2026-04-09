@@ -4,95 +4,125 @@
 </h1>
 
 <h3 align="center">
-  B.Tech AI-ML | ML & AI Enthusiast | Python Developer
+  🎓 AI/ML Undergraduate | GGSIPU
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Learning%20ML%20From%20Scratch;Building%20End-to-End%20AI%20Projects;Solving%20Real-World%20Problems%20with%20AI;Always%20Learning%20%7C%20Always%20Building&center=true&width=520&height=50">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Learning%20AI-ML%20From%20Scratch;Building%20End-to-End%20AI%20Projects;Solving%20Real-World%20Problems%20with%20AI;Always%20Learning%20%7C%20Always%20Building&center=true&width=520&height=80">
 </div>
 
 ---
-
 ## 💻 TECH STACK
 
-### 🤖 Machine Learning, DL & AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=plastic)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=plastic)
+### 🤖 Machine Learning & Deep Learning 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+
 
 ### 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+
 
 ### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+
 
 ### ⚙️ Backend & Database
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+
 
 ### 📦 DevOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=black)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0B?style=plastic&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-0078D6?style=plastic&logo=windows&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-> A snapshot of my GitHub activity, consistency, and hands-on development across personal and academic projects.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaurya0702-droid&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shaurya0702-droid&theme=github-dark-blue&hide_border=true" height="180"/>
+</div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shaurya0702-droid&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=shaurya0702-droid&theme=dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya0702-droid&layout=compact&theme=dark&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya0702-droid&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="160"/>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaurya0702-droid&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
   <a href="https://github.com/shaurya0702-droid" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/github--v1.png"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shaurya-rawat-714349366/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/linkedin--v2.png"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sharawat728@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/gmail-new.png"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/sh.aura07/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/instagram-new--v2.png"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
 
----
-
-## ✨ Personal Motto
-
-> **“The best way to learn is to build, break, and rebuild.”**
-
+> *"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. Never give up! "*
+> — Samuel Beckett
